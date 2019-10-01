@@ -4,7 +4,11 @@ Maintain a set of checklists in emacs; easily and quickly display them.
 
 # Motivation
 
-In part, expertise consists of carrying out a given set of actions associated with an activity. However, not all activities are done often enough to internalize these steps. For such rarely done activities, defining a set of reminders when carrying out a given task can help one avoid mistakes. Further, the act of defining a checklist can aid with the internalization of a process, and for tasks where mistakes are very expensive a checklist can help avoid these mistakes.
+## Why checklists
+
+In part, expertise consists of carrying out a given set of actions associated with an activity. However, not all activities are done often enough to internalize these steps. For such rarely done activities, defining a set of reminders when carrying out a given task can help one avoid mistakes: This is a checklist.
+
+Checklists can also be useful for tasks where mistakes are very expensive, since reminders can help avoid mistakes. Further, while learning checklists can help interalize a procedure.
 
 # Using this package
 
@@ -20,7 +24,7 @@ Add the following to your `init.el` file:
 * To view an existing checklist run `checklist-view`.
 * To edit an existing checklist run `checklist-edit`.
 
-If you regularly use this package, then you will want to create keybindings for these packages.
+If you regularly use this package then you will want to create keybindings for these packages.
 
 # Prior work
 
